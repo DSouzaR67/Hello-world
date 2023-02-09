@@ -7,3 +7,8 @@
 **Hobby:** Astronomía\
 ![](https://media.giphy.com/media/pz7LNMYN2dj0hgKaHj/giphy-downsized.gif)\
 [Fuente: GIPHY](https://media.giphy.com/media/pz7LNMYN2dj0hgKaHj/giphy-downsized.gif)
+
+<br>
+Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
+
+![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/actividades/img/MCD_logo.png)
