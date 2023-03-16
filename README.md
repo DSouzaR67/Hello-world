@@ -1,4 +1,4 @@
-# Activiada-06
+# Hello world
 **Mi primer repositorio**
 
   En esta parte realizarémos nuestro primer repositorio práctico en el cual demostraremos las habilidades adquiridas hasta el daía de hoy. Soy el al alumno Gabriel Varela estudiante de la maestría de ciencia de datos de la UDG:
